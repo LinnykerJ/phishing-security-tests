@@ -13,8 +13,7 @@
 - Vetor de ataque: ``` Web Site Attack Vectors ```
 - Método de ataque: ```Credential Harvester Attack Method ```
 - Método de ataque: ``` Web Templates ```
-- Obs: a VM já associa automaticamente o endereço da máquina, sendo necessário apenas pressionar ``` Enter ```. 
-- Obs: Caso queira confirmar o endereço da máquina: ``` ifconfig ```
+- a VM já associa automaticamente o endereço da máquina, sendo necessário apenas pressionar ``` Enter ```. 
 - Selecionar o Template: ``` Google ``` 
 
 ### Resutados
